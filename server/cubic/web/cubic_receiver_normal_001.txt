@@ -1,0 +1,4 @@
+Throughput: 192421091 bytes/s Time: 22.320668s
+Throughput: 339137374 bytes/s Time: 3.166097s
+Throughput: 344689082 bytes/s Time: 6.230205s
+Throughput: 451825208 bytes/s Time: 2.376454s
